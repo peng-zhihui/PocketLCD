@@ -4,7 +4,7 @@
 
 项目的视频介绍可以在这里看： [【自制】你的下一个显示器，可能是个充电宝？？](https://www.bilibili.com/video/BV17D4y1X7AT)
 
-![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201129145823.png)
+![](5.Images/img5.jpg)
 
 总的来说，这是我最近为了解决个人痛点设计制作的一个便携口袋显示器，最终成品的完成度比较高所以也就顺便开源分享出来了。
 
