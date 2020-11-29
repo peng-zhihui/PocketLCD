@@ -2,7 +2,7 @@
 
 # PocketLCD: 带充电宝功能的便携显示器
 
-项目的视频介绍可以在这里看：[【自制】你的下一个显示器，可能是个充电宝？？](https://www.bilibili.com/video/BV17D4y1X7AT)
+项目的视频介绍可以在这里看： [【自制】你的下一个显示器，可能是个充电宝？？](https://www.bilibili.com/video/BV17D4y1X7AT)
 
 ![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201129145431.jpg)
 
